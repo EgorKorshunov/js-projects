@@ -1,0 +1,1 @@
+Here I will implement and customize JavaScript projects following the course "JavaScript Web Projects: 20 Projects to Build Your Portfolio" at Udemy — https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/
